@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CurrencyExchange:8000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="currency.exchange-service" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.dk.microservices.currencyexchangeservice.Application" />
+    <option name="VM_PARAMETERS" value="-Dserver.port=8000" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
